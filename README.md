@@ -37,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s" width="40" height="40"/>
 </p>
 
 ---
